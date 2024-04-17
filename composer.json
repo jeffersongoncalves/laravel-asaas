@@ -35,8 +35,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JeffersonSimaoGoncalves\\LaravelAsaas\\": "src/",
-            "JeffersonSimaoGoncalves\\LaravelAsaas\\Database\\Factories\\": "database/factories/"
+            "JeffersonSimaoGoncalves\\LaravelAsaas\\": "src/"
         }
     },
     "autoload-dev": {
