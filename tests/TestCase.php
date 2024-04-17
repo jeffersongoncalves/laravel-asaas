@@ -1,10 +1,15 @@
 <?php
 
-namespace JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\Tests;
+namespace JeffersonSimaoGoncalves\LaravelAsaas\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
+<<<<<<< HEAD
 use JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\LaravelAsaasServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
+=======
+use Orchestra\Testbench\TestCase as Orchestra;
+use JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaasServiceProvider;
+>>>>>>> 6ec1604 (Melhorias)
 
 class TestCase extends Orchestra
 {

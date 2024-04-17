@@ -1,6 +1,6 @@
 <?php
 
-namespace JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\Database\Factories;
+namespace JeffersonSimaoGoncalves\LaravelAsaas\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

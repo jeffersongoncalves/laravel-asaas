@@ -44,7 +44,7 @@ php artisan vendor:publish --tag="laravel-asaas-views"
 ## Usage
 
 ```php
-$laravelAsaas = new JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas();
+$laravelAsaas = new JeffersonSimaoGoncalves\LaravelAsaas();
 echo $laravelAsaas->echoPhrase('Hello, JeffersonSimaoGoncalves\LaravelAsaas!');
 ```
 

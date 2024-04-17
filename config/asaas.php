@@ -1,6 +1,6 @@
 <?php
 
-// config for JeffersonSimaoGoncalves\LaravelAsaas/LaravelAsaas
+// config for JeffersonSimaoGoncalves/LaravelAsaas
 return [
 
 ];

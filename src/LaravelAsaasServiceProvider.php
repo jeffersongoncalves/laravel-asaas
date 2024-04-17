@@ -1,10 +1,14 @@
 <?php
 
-namespace JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas;
+namespace JeffersonSimaoGoncalves\LaravelAsaas;
 
 use JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\Commands\LaravelAsaasCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
+<<<<<<< HEAD
+=======
+use JeffersonSimaoGoncalves\LaravelAsaas\Commands\LaravelAsaasCommand;
+>>>>>>> 6ec1604 (Melhorias)
 
 class LaravelAsaasServiceProvider extends PackageServiceProvider
 {

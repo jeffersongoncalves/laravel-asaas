@@ -1,6 +1,6 @@
 <?php
 
-namespace JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\Commands;
+namespace JeffersonSimaoGoncalves\LaravelAsaas\Commands;
 
 use Illuminate\Console\Command;
 

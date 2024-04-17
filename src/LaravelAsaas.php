@@ -1,6 +1,6 @@
 <?php
 
-namespace JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas;
+namespace JeffersonSimaoGoncalves\LaravelAsaas;
 
 class LaravelAsaas
 {
