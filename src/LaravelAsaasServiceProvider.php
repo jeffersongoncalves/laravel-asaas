@@ -2,9 +2,9 @@
 
 namespace JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas;
 
+use JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\Commands\LaravelAsaasCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\Commands\LaravelAsaasCommand;
 
 class LaravelAsaasServiceProvider extends PackageServiceProvider
 {

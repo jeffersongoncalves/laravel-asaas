@@ -3,8 +3,8 @@
 namespace JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use JeffersonSimaoGoncalves\LaravelAsaas\LaravelAsaas\LaravelAsaasServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
